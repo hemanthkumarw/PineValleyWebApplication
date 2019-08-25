@@ -19,7 +19,7 @@
 * Step 2: Open the project in Visual Studio and connect it to the database by clicking on the Add Database Connection.
 * Step 3: Once the database is connected, Click on View without debugging option, the Web Application will run on your localhost system.
 
-## snapshots
+## Snapshots
 ![Example snapshot](./snapshot/p1.png) 
 ![Example snapshot](./snapshot/p2.png)
 ![Example snapshot](./snapshot/p3.png)
