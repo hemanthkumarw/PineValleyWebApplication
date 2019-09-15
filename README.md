@@ -1,6 +1,6 @@
 # Pine Valley Furniture Company's Web Application
 
-> This Web Application Academic Project was primarily focused on Requirement Analysis, Database Designing, Database Modeling(SDLC) and then secondarily focused on developing a web application in MVC framework
+> This Web Application Academic Project was primarily focused on Requirement Analysis, Database Designing, Database Modeling (SDLC Phases) and then secondarily focused on developing a web application in MVC framework
 
 ## Table of contents
 * [Technologies](#technologies)
